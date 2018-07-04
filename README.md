@@ -1,5 +1,5 @@
 # LifeEmulator
-Utilities for the LifeEmulator serverr at lifeemulator.us.to
+Utilities for the LifeEmulator server at lifeemulator.us.to
 
 # Directory:
  1. [Crafting](Crafting/)
